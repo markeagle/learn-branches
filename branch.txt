@@ -3,5 +3,3 @@ Learn to create branches.
 This is my 2nd commit.
 
 This is my 3rd commit.
-
-Create a branch conflick text
