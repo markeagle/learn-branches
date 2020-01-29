@@ -3,3 +3,6 @@ Learn to create branches.
 This is my 2nd commit.
 
 This is my 3rd commit.
+
+
+This is a new line made on local machine to test out a merge conflict
